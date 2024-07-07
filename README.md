@@ -11,6 +11,7 @@
 
 - Java JDK 11 installed and configured (with _JAVA_HOME_ and _PATH_ configured)
 - Allure installed and configured
+- Maven installed and configured
 ### Languages & Environments & Tools
 
 ![Open JDK](https://img.shields.io/github/v/tag/openjdk/jdk11u?color=%23ff9800&label=openjdk%2011&logo=java&logoColor=%23ff9800&style=for-the-badge) ![Maven](https://img.shields.io/github/v/tag/apache/maven?color=ff5733&label=apache&logo=apache&logoColor=ff5733&style=for-the-badge)
